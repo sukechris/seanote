@@ -1,4 +1,4 @@
-<img height="56px" src="./assets/logo-with-name.png" alt="Seanote" />
+<img height="50px" src="./assets/logo-with-name.png" alt="Seanote" />
 
 This is a repository for Seanote project management.
 
